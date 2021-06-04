@@ -1,7 +1,9 @@
 # margeleary_memorial
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/46a04cca-203d-4694-9595-58f39dbac977/deploy-status)](https://app.netlify.com/sites/friendly-heisenberg-50bd90/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b77444d-1b58-4763-b6d6-2fcc82959549/deploy-status)](https://app.netlify.com/sites/marjorielearycelebration/deploys)
 
-Updated memorial website.  Testing new desgin/look before deploying.
+Updated memorial website for my mother, Marge Leary. 
 
-Temp site is hosted on netlify at: https://friendly-heisenberg-50bd90.netlify.app
+This version replaces an older blogdown format, which allowed for more customization. The site is hosted via Netlfiy.
+
+Link to website: https://marjorielearycelebration.netlify.app/
